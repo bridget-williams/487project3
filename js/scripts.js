@@ -71,10 +71,13 @@ $(function () {
                     x: {
                         label: 'Year',
                         nice: false,
-                        tickFormat: 'simpleDate'
+                        tickFormat: 'simpleDate',
+                        fontFamily: 'Georgia'
                     },  // custom label for X axis
                     y: {
-                        label: 'Number of Storms'
+                        label: {
+                            text: 'Number of Storms'
+                        }
                     },    // custom label for Y axis
                     padding: {},   // chart paddings
                     color: {                          // custom colors
@@ -110,8 +113,8 @@ $(function () {
                         nice: false,
                         showGridLines: 'xy',
                         padding: {l: 56, b: 46, r: 8, t: 8},
-                        x: {padding: 8, label: 'x', min: 1840, max: 2020, nice: false},
-                        y: {padding: 8, label: 'Y', min: 0, max: 9, nice: false}
+                        x: {padding: 8, label: {text:'y = 0.0026x - 2.4325'}, min: 1840, max: 2020, nice: false},
+                        y: {padding: 8, label: {text: 'Number of Storms'}, min: 0, max: 9, nice: false}
                     },
                     unit: [{
                         type: 'ELEMENT.LINE',

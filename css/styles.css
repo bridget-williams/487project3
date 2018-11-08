@@ -111,6 +111,18 @@
 #main{
     grid-column: 2/3;
     grid-row: 4/5;
+    display:flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    margin: 10pt;
+}
+#main > * {
+    margin: 1em 0;
+}
+
+p{
+    line-height: 1.5;
 }
 
 h1{
@@ -120,12 +132,14 @@ h1{
 }
 #photo{
     max-width: 100%;
+    margin-bottom:0;
 }
 
 #imgCaption {
     color: #666666;
     font-size: 10pt;
-    font-weight: lighter
+    font-weight: lighter;
+    margin-top:5pt;
 }
 
 
@@ -137,7 +151,10 @@ h1{
 #author{
     align-items: center;
     justify-content: left;
-    margin: 20pt 0;
+    margin: 30pt 0;
+    height: 100px;
+    align-self: flex-start;
+
 }
 #authorText{
     font-size: 11pt;
@@ -150,6 +167,7 @@ h1{
 
 #date2{
     color: #666666;
+    align-self: flex-start;
 }
 
 .highcharts-legend, .highcharts-tooltip{
@@ -158,29 +176,26 @@ h1{
 
 
 #tempChart{
-
     height:400px;
 }
 
 
 #stormsChart{
-
     height: 200pt;
     width:100%;
-
 }
 
 #stormsTrend{
-    width:100%;
+    width:50%;
     height: 100pt;
-
+    align-self: center;
 }
 
 #chart, .allStormsChart_wrapper, .dataTables_wrapper{
-
     position: relative;
-
 }
+
+
 
 @media only screen and (max-width: 768px) {
     #site {

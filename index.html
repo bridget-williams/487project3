@@ -23,8 +23,8 @@
             <div id="logIn" class="sansS flex">LOG IN</div>
         </div>
         <div class="flex" id="menuBar">
-            <div class="flex " id="date">TUESDAY NOV. 6, 2018</div>
-            <div class="flex " id="menu"><pre id="menuItems">CAREGIVERS   CARS    HOMES    JOBS    SD    ALMANAC    CONTACT US    TODAY'S PAPER    REWARDS</pre></div>
+            <div class="flex" id="date">TUESDAY NOV. 6, 2018</div>
+            <div class="flex" id="menu"><pre id="menuItems">CAREGIVERS   CARS    HOMES    JOBS    SD    ALMANAC    CONTACT US    TODAY'S PAPER    REWARDS</pre></div>
             <div class="flex" id="weather"><img id="weatherImg" src="img/weather.png" alt="Today's Weather"></div>
 
         </div>
@@ -32,21 +32,59 @@
             <div class="flex sansS" id="social"><img id="socialIcons" src="img/social_icons.png" alt="Icons"></div>
             <div class="flex sansS" id="location"><span id="science">Science  / </span> <span id="environment"> Environment</span></div>
         </div>
-        <div id="main">
+        <div class="flex" id="main">
             <div id="title"><h1>Hurricanes and Global Warming in North Carolina</h1></div>
             <img id="photo" src="img/hurricaneImg.jpg" alt="A Wave hits a Fishing Pier">
             <div class="sansS" id="imgCaption">Waves from Hurricane Florence Hit the Oceana Pier in Atlantic Beach, North Carolina (Associated Press)</div>
             <div class="flex" id="author">
                 <img id="authorPic" src="img/author.png" alt="The Author's Image">
-                <div id="authorText">By <span id="orange">Bridget Williams ·  Data Visualization</spanid></div>
+                <div id="authorText">By <span id="orange">Bridget Williams ·  Data Visualization</span></div>
             </div>
             <div class="sansS" id="date2">
                NOVEMBER 6, 2018, 8:10 PM
             </div>
+            <p>
+                Hurricane Florence is estimated to cost over $17 billion, and it isn’t the only extreme storm that hit the Southeastern United States in recent years. Hurricane Harvey, which was the second most costly hurricane in US history, cost over $125 billion, second only to Hurricane Katrina in 2005.
+            </p>
+            <p>
+                Many climate advocates say these storms are being worsened by global climate change. Climate change is usually measured by the yearly sea surface temperature anomaly. This measures how different any given year’s average temperature was from a baseline measure. The graph below shows the annual temperature anomaly for 1880 to 2015 compared to the average yearly temperature from 1971-2000.
+            </p>
+
             <div id="tempChart"></div>
+
+            <p>
+                But what about the storms? According the National Ocean and Atmospheric Association, it is unclear whether global warming will lead to more hurricanes. However, even a one degree increase in the temperature of the Atlantic ocean is predicted to increase the intensity of tropical storms as well the likelihood that a storm reaches a Category 4 or 5.
+            </p>
+               <p>
+                   Why is this? According to NASA, warm, wet air fuels hurricanes. This is why they often form near the equator in the Atlantic Ocean. As the warm air creates a larger and larger storm, the earth’s spin starts to influence the way the clouds move, which then creates their cyclone shape. Long story short, more warm water means more warm, wet air, which means more fuel for hurricanes.
+               </p>
+               <p>
+                   Since the global temperature has already increased, are the storms of the past few years part of this coming phenomenon? Let’s look at North Carolina.
+               </p>
+               <p>
+                   This scatter plot shows all the storms that have impacted North Carolina since 1851. The size of each bubble is based on the maximum wind speed recorded in the storm, a measure of intensity.
+               </p>
+
             <div id="stormsChart"></div>
+
+            <p>
+                It’s unclear if the storms are getting stronger. It’s also unclear if the yearly number has increased.
+            </p>
+
+
+              <p>
+                  Below is a line based on the above scatterplot showing the number of storms per year. It’s increasing but so slightly that it’s not even statistically significant.
+            </p>
+
             <div id="stormsTrend"></div>
             <div id="chart"></div>
+
+            <p>
+                So, at least in North Carolina, we haven’t started to see the predicted results of climate change on hurricanes.</p>
+
+               <p>
+                   Explore this table to learn more about every hurricane that impacted North Carolina between 1851 and 2016.
+            </p>
             <table id="allStormsChart">
                 <thead>
                 <tr>
