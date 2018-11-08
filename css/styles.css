@@ -122,7 +122,7 @@
 }
 
 p{
-    line-height: 1.5;
+    line-height:1.5;
 }
 
 h1{
@@ -178,7 +178,11 @@ h1{
 #tempChart{
     height:400px;
 }
-
+#stormsCaption{
+    font-size: 9pt;
+    color: #666666;
+    margin: 0;
+}
 
 #stormsChart{
     height: 200pt;
