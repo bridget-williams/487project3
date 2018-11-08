@@ -1,0 +1,818 @@
+[
+  {
+    "Year": 1880,
+    "Annual anomaly": -0.4700088,
+    "Lower 95% confidence interval": -0.672646261,
+    "Upper 95% confidence interval": -0.267371339
+  },
+  {
+    "Year": 1881,
+    "Annual anomaly": -0.3568788,
+    "Lower 95% confidence interval": -0.560588343,
+    "Upper 95% confidence interval": -0.153169257
+  },
+  {
+    "Year": 1882,
+    "Annual anomaly": -0.3726612,
+    "Lower 95% confidence interval": -0.575728173,
+    "Upper 95% confidence interval": -0.169594227
+  },
+  {
+    "Year": 1883,
+    "Annual anomaly": -0.448443,
+    "Lower 95% confidence interval": -0.650803864,
+    "Upper 95% confidence interval": -0.246082136
+  },
+  {
+    "Year": 1884,
+    "Annual anomaly": -0.5897538,
+    "Lower 95% confidence interval": -0.790478088,
+    "Upper 95% confidence interval": -0.389029512
+  },
+  {
+    "Year": 1885,
+    "Annual anomaly": -0.6636546,
+    "Lower 95% confidence interval": -0.86307244,
+    "Upper 95% confidence interval": -0.46423676
+  },
+  {
+    "Year": 1886,
+    "Annual anomaly": -0.6439392,
+    "Lower 95% confidence interval": -0.842606641,
+    "Upper 95% confidence interval": -0.445271759
+  },
+  {
+    "Year": 1887,
+    "Annual anomaly": -0.7616232,
+    "Lower 95% confidence interval": -0.959851596,
+    "Upper 95% confidence interval": -0.563394804
+  },
+  {
+    "Year": 1888,
+    "Annual anomaly": -0.5166342,
+    "Lower 95% confidence interval": -0.713950039,
+    "Upper 95% confidence interval": -0.319318361
+  },
+  {
+    "Year": 1889,
+    "Annual anomaly": -0.4717926,
+    "Lower 95% confidence interval": -0.674798269,
+    "Upper 95% confidence interval": -0.268786931
+  },
+  {
+    "Year": 1890,
+    "Annual anomaly": -0.8875836,
+    "Lower 95% confidence interval": -1.093269328,
+    "Upper 95% confidence interval": -0.681897872
+  },
+  {
+    "Year": 1891,
+    "Annual anomaly": -0.6603264,
+    "Lower 95% confidence interval": -0.864035943,
+    "Upper 95% confidence interval": -0.456616857
+  },
+  {
+    "Year": 1892,
+    "Annual anomaly": -0.8173098,
+    "Lower 95% confidence interval": -1.021385617,
+    "Upper 95% confidence interval": -0.613233983
+  },
+  {
+    "Year": 1893,
+    "Annual anomaly": -0.8148276,
+    "Lower 95% confidence interval": -1.019876951,
+    "Upper 95% confidence interval": -0.609778249
+  },
+  {
+    "Year": 1894,
+    "Annual anomaly": -0.84978,
+    "Lower 95% confidence interval": -1.054495221,
+    "Upper 95% confidence interval": -0.645064779
+  },
+  {
+    "Year": 1895,
+    "Annual anomaly": -0.6772536,
+    "Lower 95% confidence interval": -0.884986602,
+    "Upper 95% confidence interval": -0.469520598
+  },
+  {
+    "Year": 1896,
+    "Annual anomaly": -0.4412844,
+    "Lower 95% confidence interval": -0.658507231,
+    "Upper 95% confidence interval": -0.224061569
+  },
+  {
+    "Year": 1897,
+    "Annual anomaly": -0.4894326,
+    "Lower 95% confidence interval": -0.72538697,
+    "Upper 95% confidence interval": -0.25347823
+  },
+  {
+    "Year": 1898,
+    "Annual anomaly": -0.78255,
+    "Lower 95% confidence interval": -1.01178857,
+    "Upper 95% confidence interval": -0.55331143
+  },
+  {
+    "Year": 1899,
+    "Annual anomaly": -0.578736,
+    "Lower 95% confidence interval": -0.812490961,
+    "Upper 95% confidence interval": -0.344981039
+  },
+  {
+    "Year": 1900,
+    "Annual anomaly": -0.4833054,
+    "Lower 95% confidence interval": -0.715645027,
+    "Upper 95% confidence interval": -0.250965773
+  },
+  {
+    "Year": 1901,
+    "Annual anomaly": -0.6831072,
+    "Lower 95% confidence interval": -0.917128245,
+    "Upper 95% confidence interval": -0.449086155
+  },
+  {
+    "Year": 1902,
+    "Annual anomaly": -0.7883226,
+    "Lower 95% confidence interval": -1.014939966,
+    "Upper 95% confidence interval": -0.561705234
+  },
+  {
+    "Year": 1903,
+    "Annual anomaly": -0.9732618,
+    "Lower 95% confidence interval": -1.201684475,
+    "Upper 95% confidence interval": -0.744839125
+  },
+  {
+    "Year": 1904,
+    "Annual anomaly": -1.123038,
+    "Lower 95% confidence interval": -1.35535084,
+    "Upper 95% confidence interval": -0.89072516
+  },
+  {
+    "Year": 1905,
+    "Annual anomaly": -0.8347986,
+    "Lower 95% confidence interval": -1.077359825,
+    "Upper 95% confidence interval": -0.592237375
+  },
+  {
+    "Year": 1906,
+    "Annual anomaly": -0.795843,
+    "Lower 95% confidence interval": -1.046455195,
+    "Upper 95% confidence interval": -0.545230805
+  },
+  {
+    "Year": 1907,
+    "Annual anomaly": -0.917685,
+    "Lower 95% confidence interval": -1.193929878,
+    "Upper 95% confidence interval": -0.641440122
+  },
+  {
+    "Year": 1908,
+    "Annual anomaly": -1.160703,
+    "Lower 95% confidence interval": -1.448467581,
+    "Upper 95% confidence interval": -0.872938419
+  },
+  {
+    "Year": 1909,
+    "Annual anomaly": -1.189773,
+    "Lower 95% confidence interval": -1.462982377,
+    "Upper 95% confidence interval": -0.916563623
+  },
+  {
+    "Year": 1910,
+    "Annual anomaly": -1.112769,
+    "Lower 95% confidence interval": -1.375006453,
+    "Upper 95% confidence interval": -0.850531547
+  },
+  {
+    "Year": 1911,
+    "Annual anomaly": -1.1706066,
+    "Lower 95% confidence interval": -1.430986385,
+    "Upper 95% confidence interval": -0.910226815
+  },
+  {
+    "Year": 1912,
+    "Annual anomaly": -0.8718498,
+    "Lower 95% confidence interval": -1.130527033,
+    "Upper 95% confidence interval": -0.613172567
+  },
+  {
+    "Year": 1913,
+    "Annual anomaly": -0.9557658,
+    "Lower 95% confidence interval": -1.205831077,
+    "Upper 95% confidence interval": -0.705700523
+  },
+  {
+    "Year": 1914,
+    "Annual anomaly": -0.6931926,
+    "Lower 95% confidence interval": -0.935060094,
+    "Upper 95% confidence interval": -0.451325106
+  },
+  {
+    "Year": 1915,
+    "Annual anomaly": -0.5274864,
+    "Lower 95% confidence interval": -0.773385722,
+    "Upper 95% confidence interval": -0.281587078
+  },
+  {
+    "Year": 1916,
+    "Annual anomaly": -0.8644752,
+    "Lower 95% confidence interval": -1.117509302,
+    "Upper 95% confidence interval": -0.611441098
+  },
+  {
+    "Year": 1917,
+    "Annual anomaly": -0.7996338,
+    "Lower 95% confidence interval": -1.058479388,
+    "Upper 95% confidence interval": -0.540788212
+  },
+  {
+    "Year": 1918,
+    "Annual anomaly": -0.6306858,
+    "Lower 95% confidence interval": -0.89171012,
+    "Upper 95% confidence interval": -0.36966148
+  },
+  {
+    "Year": 1919,
+    "Annual anomaly": -0.6633414,
+    "Lower 95% confidence interval": -0.929067962,
+    "Upper 95% confidence interval": -0.397614838
+  },
+  {
+    "Year": 1920,
+    "Annual anomaly": -0.7196544,
+    "Lower 95% confidence interval": -0.993296233,
+    "Upper 95% confidence interval": -0.446012567
+  },
+  {
+    "Year": 1921,
+    "Annual anomaly": -0.7222464,
+    "Lower 95% confidence interval": -1.004993095,
+    "Upper 95% confidence interval": -0.439499705
+  },
+  {
+    "Year": 1922,
+    "Annual anomaly": -0.8093034,
+    "Lower 95% confidence interval": -1.099308434,
+    "Upper 95% confidence interval": -0.519298366
+  },
+  {
+    "Year": 1923,
+    "Annual anomaly": -0.7910208,
+    "Lower 95% confidence interval": -1.094900201,
+    "Upper 95% confidence interval": -0.487141399
+  },
+  {
+    "Year": 1924,
+    "Annual anomaly": -0.8465382,
+    "Lower 95% confidence interval": -1.160946149,
+    "Upper 95% confidence interval": -0.532130251
+  },
+  {
+    "Year": 1925,
+    "Annual anomaly": -0.6946722,
+    "Lower 95% confidence interval": -1.021483848,
+    "Upper 95% confidence interval": -0.367860552
+  },
+  {
+    "Year": 1926,
+    "Annual anomaly": -0.554238,
+    "Lower 95% confidence interval": -0.891305121,
+    "Upper 95% confidence interval": -0.217170879
+  },
+  {
+    "Year": 1927,
+    "Annual anomaly": -0.6640884,
+    "Lower 95% confidence interval": -1.011538192,
+    "Upper 95% confidence interval": -0.316638608
+  },
+  {
+    "Year": 1928,
+    "Annual anomaly": -0.7589772,
+    "Lower 95% confidence interval": -1.11605542,
+    "Upper 95% confidence interval": -0.40189898
+  },
+  {
+    "Year": 1929,
+    "Annual anomaly": -0.8502282,
+    "Lower 95% confidence interval": -1.216749877,
+    "Upper 95% confidence interval": -0.483706523
+  },
+  {
+    "Year": 1930,
+    "Annual anomaly": -0.5835816,
+    "Lower 95% confidence interval": -0.955162244,
+    "Upper 95% confidence interval": -0.212000956
+  },
+  {
+    "Year": 1931,
+    "Annual anomaly": -0.5537106,
+    "Lower 95% confidence interval": -0.932835199,
+    "Upper 95% confidence interval": -0.174586001
+  },
+  {
+    "Year": 1932,
+    "Annual anomaly": -0.683568,
+    "Lower 95% confidence interval": -1.06960601,
+    "Upper 95% confidence interval": -0.29752999
+  },
+  {
+    "Year": 1933,
+    "Annual anomaly": -0.7777674,
+    "Lower 95% confidence interval": -1.165109025,
+    "Upper 95% confidence interval": -0.390425775
+  },
+  {
+    "Year": 1934,
+    "Annual anomaly": -0.6447312,
+    "Lower 95% confidence interval": -1.036132551,
+    "Upper 95% confidence interval": -0.253329849
+  },
+  {
+    "Year": 1935,
+    "Annual anomaly": -0.6452784,
+    "Lower 95% confidence interval": -1.032700351,
+    "Upper 95% confidence interval": -0.257856449
+  },
+  {
+    "Year": 1936,
+    "Annual anomaly": -0.5988258,
+    "Lower 95% confidence interval": -0.978557274,
+    "Upper 95% confidence interval": -0.219094326
+  },
+  {
+    "Year": 1937,
+    "Annual anomaly": -0.4155462,
+    "Lower 95% confidence interval": -0.79004635,
+    "Upper 95% confidence interval": -0.04104605
+  },
+  {
+    "Year": 1938,
+    "Annual anomaly": -0.5834772,
+    "Lower 95% confidence interval": -0.944283123,
+    "Upper 95% confidence interval": -0.222671277
+  },
+  {
+    "Year": 1939,
+    "Annual anomaly": -0.4924098,
+    "Lower 95% confidence interval": -0.866594077,
+    "Upper 95% confidence interval": -0.118225523
+  },
+  {
+    "Year": 1940,
+    "Annual anomaly": -0.1797678,
+    "Lower 95% confidence interval": -0.611756958,
+    "Upper 95% confidence interval": 0.252221358
+  },
+  {
+    "Year": 1941,
+    "Annual anomaly": 0.0471582,
+    "Lower 95% confidence interval": -0.424552683,
+    "Upper 95% confidence interval": 0.518869083
+  },
+  {
+    "Year": 1942,
+    "Annual anomaly": -0.0406296,
+    "Lower 95% confidence interval": -0.527506382,
+    "Upper 95% confidence interval": 0.446247182
+  },
+  {
+    "Year": 1943,
+    "Annual anomaly": -0.039807,
+    "Lower 95% confidence interval": -0.528775582,
+    "Upper 95% confidence interval": 0.449161582
+  },
+  {
+    "Year": 1944,
+    "Annual anomaly": 0.2180826,
+    "Lower 95% confidence interval": -0.249640262,
+    "Upper 95% confidence interval": 0.685805462
+  },
+  {
+    "Year": 1945,
+    "Annual anomaly": 0.157752,
+    "Lower 95% confidence interval": -0.301294896,
+    "Upper 95% confidence interval": 0.616798896
+  },
+  {
+    "Year": 1946,
+    "Annual anomaly": -0.3853548,
+    "Lower 95% confidence interval": -0.810914088,
+    "Upper 95% confidence interval": 0.040204488
+  },
+  {
+    "Year": 1947,
+    "Annual anomaly": -0.5579568,
+    "Lower 95% confidence interval": -0.948546395,
+    "Upper 95% confidence interval": -0.167367205
+  },
+  {
+    "Year": 1948,
+    "Annual anomaly": -0.5477346,
+    "Lower 95% confidence interval": -0.927875577,
+    "Upper 95% confidence interval": -0.167593623
+  },
+  {
+    "Year": 1949,
+    "Annual anomaly": -0.4941792,
+    "Lower 95% confidence interval": -0.871493811,
+    "Upper 95% confidence interval": -0.116864589
+  },
+  {
+    "Year": 1950,
+    "Annual anomaly": -0.5531796,
+    "Lower 95% confidence interval": -0.951249954,
+    "Upper 95% confidence interval": -0.155109246
+  },
+  {
+    "Year": 1951,
+    "Annual anomaly": -0.368496,
+    "Lower 95% confidence interval": -0.78529303,
+    "Upper 95% confidence interval": 0.04830103
+  },
+  {
+    "Year": 1952,
+    "Annual anomaly": -0.2612952,
+    "Lower 95% confidence interval": -0.649150626,
+    "Upper 95% confidence interval": 0.126560226
+  },
+  {
+    "Year": 1953,
+    "Annual anomaly": -0.2661372,
+    "Lower 95% confidence interval": -0.619589277,
+    "Upper 95% confidence interval": 0.087314877
+  },
+  {
+    "Year": 1954,
+    "Annual anomaly": -0.5613282,
+    "Lower 95% confidence interval": -0.911880762,
+    "Upper 95% confidence interval": -0.210775638
+  },
+  {
+    "Year": 1955,
+    "Annual anomaly": -0.632412,
+    "Lower 95% confidence interval": -0.970879428,
+    "Upper 95% confidence interval": -0.293944572
+  },
+  {
+    "Year": 1956,
+    "Annual anomaly": -0.5871312,
+    "Lower 95% confidence interval": -0.915671168,
+    "Upper 95% confidence interval": -0.258591232
+  },
+  {
+    "Year": 1957,
+    "Annual anomaly": -0.2226618,
+    "Lower 95% confidence interval": -0.551012288,
+    "Upper 95% confidence interval": 0.105688688
+  },
+  {
+    "Year": 1958,
+    "Annual anomaly": -0.1943208,
+    "Lower 95% confidence interval": -0.516973712,
+    "Upper 95% confidence interval": 0.128332112
+  },
+  {
+    "Year": 1959,
+    "Annual anomaly": -0.2735424,
+    "Lower 95% confidence interval": -0.593716904,
+    "Upper 95% confidence interval": 0.046632104
+  },
+  {
+    "Year": 1960,
+    "Annual anomaly": -0.3035772,
+    "Lower 95% confidence interval": -0.615061841,
+    "Upper 95% confidence interval": 0.007907441
+  },
+  {
+    "Year": 1961,
+    "Annual anomaly": -0.2642508,
+    "Lower 95% confidence interval": -0.565538695,
+    "Upper 95% confidence interval": 0.037037095
+  },
+  {
+    "Year": 1962,
+    "Annual anomaly": -0.2717028,
+    "Lower 95% confidence interval": -0.567634502,
+    "Upper 95% confidence interval": 0.024228902
+  },
+  {
+    "Year": 1963,
+    "Annual anomaly": -0.260397,
+    "Lower 95% confidence interval": -0.544855332,
+    "Upper 95% confidence interval": 0.024061332
+  },
+  {
+    "Year": 1964,
+    "Annual anomaly": -0.5913306,
+    "Lower 95% confidence interval": -0.867462813,
+    "Upper 95% confidence interval": -0.315198387
+  },
+  {
+    "Year": 1965,
+    "Annual anomaly": -0.489249,
+    "Lower 95% confidence interval": -0.758095563,
+    "Upper 95% confidence interval": -0.220402437
+  },
+  {
+    "Year": 1966,
+    "Annual anomaly": -0.39411,
+    "Lower 95% confidence interval": -0.655038934,
+    "Upper 95% confidence interval": -0.133181066
+  },
+  {
+    "Year": 1967,
+    "Annual anomaly": -0.4203576,
+    "Lower 95% confidence interval": -0.672233081,
+    "Upper 95% confidence interval": -0.168482119
+  },
+  {
+    "Year": 1968,
+    "Annual anomaly": -0.38187,
+    "Lower 95% confidence interval": -0.626907316,
+    "Upper 95% confidence interval": -0.136832684
+  },
+  {
+    "Year": 1969,
+    "Annual anomaly": -0.0876366,
+    "Lower 95% confidence interval": -0.323274253,
+    "Upper 95% confidence interval": 0.148001053
+  },
+  {
+    "Year": 1970,
+    "Annual anomaly": -0.3086334,
+    "Lower 95% confidence interval": -0.543318336,
+    "Upper 95% confidence interval": -0.073948464
+  },
+  {
+    "Year": 1971,
+    "Annual anomaly": -0.5571756,
+    "Lower 95% confidence interval": -0.780473197,
+    "Upper 95% confidence interval": -0.333878003
+  },
+  {
+    "Year": 1972,
+    "Annual anomaly": -0.2051676,
+    "Lower 95% confidence interval": -0.424868825,
+    "Upper 95% confidence interval": 0.014533625
+  },
+  {
+    "Year": 1973,
+    "Annual anomaly": -0.1836738,
+    "Lower 95% confidence interval": -0.397605623,
+    "Upper 95% confidence interval": 0.030258023
+  },
+  {
+    "Year": 1974,
+    "Annual anomaly": -0.4251924,
+    "Lower 95% confidence interval": -0.629085162,
+    "Upper 95% confidence interval": -0.221299638
+  },
+  {
+    "Year": 1975,
+    "Annual anomaly": -0.4675428,
+    "Lower 95% confidence interval": -0.66938017,
+    "Upper 95% confidence interval": -0.26570543
+  },
+  {
+    "Year": 1976,
+    "Annual anomaly": -0.4096278,
+    "Lower 95% confidence interval": -0.611403493,
+    "Upper 95% confidence interval": -0.207852107
+  },
+  {
+    "Year": 1977,
+    "Annual anomaly": -0.0397692,
+    "Lower 95% confidence interval": -0.227019275,
+    "Upper 95% confidence interval": 0.147480875
+  },
+  {
+    "Year": 1978,
+    "Annual anomaly": -0.165393,
+    "Lower 95% confidence interval": -0.356035622,
+    "Upper 95% confidence interval": 0.025249622
+  },
+  {
+    "Year": 1979,
+    "Annual anomaly": 0.0692586,
+    "Lower 95% confidence interval": -0.122263389,
+    "Upper 95% confidence interval": 0.260780589
+  },
+  {
+    "Year": 1980,
+    "Annual anomaly": 0.0771966,
+    "Lower 95% confidence interval": -0.122751069,
+    "Upper 95% confidence interval": 0.277144269
+  },
+  {
+    "Year": 1981,
+    "Annual anomaly": 0.0219924,
+    "Lower 95% confidence interval": -0.186189496,
+    "Upper 95% confidence interval": 0.230174296
+  },
+  {
+    "Year": 1982,
+    "Annual anomaly": -0.0032202,
+    "Lower 95% confidence interval": -0.220986697,
+    "Upper 95% confidence interval": 0.214546297
+  },
+  {
+    "Year": 1983,
+    "Annual anomaly": 0.1239354,
+    "Lower 95% confidence interval": -0.099306449,
+    "Upper 95% confidence interval": 0.347177249
+  },
+  {
+    "Year": 1984,
+    "Annual anomaly": -0.0596304,
+    "Lower 95% confidence interval": -0.291030626,
+    "Upper 95% confidence interval": 0.171769826
+  },
+  {
+    "Year": 1985,
+    "Annual anomaly": -0.109917,
+    "Lower 95% confidence interval": -0.340859567,
+    "Upper 95% confidence interval": 0.121025567
+  },
+  {
+    "Year": 1986,
+    "Annual anomaly": -0.0137916,
+    "Lower 95% confidence interval": -0.243491224,
+    "Upper 95% confidence interval": 0.215908024
+  },
+  {
+    "Year": 1987,
+    "Annual anomaly": 0.2456388,
+    "Lower 95% confidence interval": 0.01795293,
+    "Upper 95% confidence interval": 0.47332467
+  },
+  {
+    "Year": 1988,
+    "Annual anomaly": 0.1634436,
+    "Lower 95% confidence interval": -0.062706429,
+    "Upper 95% confidence interval": 0.389593629
+  },
+  {
+    "Year": 1989,
+    "Annual anomaly": 0.0785898,
+    "Lower 95% confidence interval": -0.144874957,
+    "Upper 95% confidence interval": 0.302054557
+  },
+  {
+    "Year": 1990,
+    "Annual anomaly": 0.274842,
+    "Lower 95% confidence interval": 0.05989442,
+    "Upper 95% confidence interval": 0.48978958
+  },
+  {
+    "Year": 1991,
+    "Annual anomaly": 0.2497932,
+    "Lower 95% confidence interval": 0.036969689,
+    "Upper 95% confidence interval": 0.462616711
+  },
+  {
+    "Year": 1992,
+    "Annual anomaly": 0.0669942,
+    "Lower 95% confidence interval": -0.146004691,
+    "Upper 95% confidence interval": 0.279993091
+  },
+  {
+    "Year": 1993,
+    "Annual anomaly": 0.0748224,
+    "Lower 95% confidence interval": -0.13980646,
+    "Upper 95% confidence interval": 0.28945126
+  },
+  {
+    "Year": 1994,
+    "Annual anomaly": 0.1436454,
+    "Lower 95% confidence interval": -0.072629921,
+    "Upper 95% confidence interval": 0.359920721
+  },
+  {
+    "Year": 1995,
+    "Annual anomaly": 0.2219328,
+    "Lower 95% confidence interval": 0.004337841,
+    "Upper 95% confidence interval": 0.439527759
+  },
+  {
+    "Year": 1996,
+    "Annual anomaly": 0.1661922,
+    "Lower 95% confidence interval": -0.052941761,
+    "Upper 95% confidence interval": 0.385326161
+  },
+  {
+    "Year": 1997,
+    "Annual anomaly": 0.428193,
+    "Lower 95% confidence interval": 0.206967426,
+    "Upper 95% confidence interval": 0.649418574
+  },
+  {
+    "Year": 1998,
+    "Annual anomaly": 0.5327244,
+    "Lower 95% confidence interval": 0.305585853,
+    "Upper 95% confidence interval": 0.759862947
+  },
+  {
+    "Year": 1999,
+    "Annual anomaly": 0.1698606,
+    "Lower 95% confidence interval": -0.065274711,
+    "Upper 95% confidence interval": 0.404995911
+  },
+  {
+    "Year": 2000,
+    "Annual anomaly": 0.2325024,
+    "Lower 95% confidence interval": -0.006856215,
+    "Upper 95% confidence interval": 0.471861015
+  },
+  {
+    "Year": 2001,
+    "Annual anomaly": 0.4042188,
+    "Lower 95% confidence interval": 0.157914871,
+    "Upper 95% confidence interval": 0.650522729
+  },
+  {
+    "Year": 2002,
+    "Annual anomaly": 0.4671414,
+    "Lower 95% confidence interval": 0.214033523,
+    "Upper 95% confidence interval": 0.720249277
+  },
+  {
+    "Year": 2003,
+    "Annual anomaly": 0.5250798,
+    "Lower 95% confidence interval": 0.265489953,
+    "Upper 95% confidence interval": 0.784669647
+  },
+  {
+    "Year": 2004,
+    "Annual anomaly": 0.4946364,
+    "Lower 95% confidence interval": 0.228324975,
+    "Upper 95% confidence interval": 0.760947825
+  },
+  {
+    "Year": 2005,
+    "Annual anomaly": 0.5327874,
+    "Lower 95% confidence interval": 0.259646368,
+    "Upper 95% confidence interval": 0.805928432
+  },
+  {
+    "Year": 2006,
+    "Annual anomaly": 0.5114556,
+    "Lower 95% confidence interval": 0.22994419,
+    "Upper 95% confidence interval": 0.79296701
+  },
+  {
+    "Year": 2007,
+    "Annual anomaly": 0.3846042,
+    "Lower 95% confidence interval": 0.097445805,
+    "Upper 95% confidence interval": 0.671762595
+  },
+  {
+    "Year": 2008,
+    "Annual anomaly": 0.3673116,
+    "Lower 95% confidence interval": 0.081478274,
+    "Upper 95% confidence interval": 0.653144926
+  },
+  {
+    "Year": 2009,
+    "Annual anomaly": 0.5894424,
+    "Lower 95% confidence interval": 0.295896687,
+    "Upper 95% confidence interval": 0.882988113
+  },
+  {
+    "Year": 2010,
+    "Annual anomaly": 0.6127182,
+    "Lower 95% confidence interval": 0.317987636,
+    "Upper 95% confidence interval": 0.907448764
+  },
+  {
+    "Year": 2011,
+    "Annual anomaly": 0.4286736,
+    "Lower 95% confidence interval": 0.13328918,
+    "Upper 95% confidence interval": 0.72405802
+  },
+  {
+    "Year": 2012,
+    "Annual anomaly": 0.528696,
+    "Lower 95% confidence interval": 0.232869466,
+    "Upper 95% confidence interval": 0.824522534
+  },
+  {
+    "Year": 2013,
+    "Annual anomaly": 0.5846742,
+    "Lower 95% confidence interval": 0.28922658,
+    "Upper 95% confidence interval": 0.88012182
+  },
+  {
+    "Year": 2014,
+    "Annual anomaly": 0.7512552,
+    "Lower 95% confidence interval": 0.45580758,
+    "Upper 95% confidence interval": 1.04670282
+  },
+  {
+    "Year": 2015,
+    "Annual anomaly": 0.935577,
+    "Lower 95% confidence interval": 0.64012938,
+    "Upper 95% confidence interval": 1.23102462
+  }
+]

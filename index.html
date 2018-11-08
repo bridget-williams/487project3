@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Project 3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    <!--Links to stylesheets-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/taucharts@2/dist/taucharts.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
+</head>
+
+
+<body>
+    <div id="site">
+        <div class="flex" id="topBar">
+            <div class="flex sansS"> <img id="hamburger" src="img/hamburger.png" alt="menubutton"><span id="sections">SECTIONS</span>  </div>
+            <div id="searchText" class="flex sansS"> <img id="search" src="img/search.png" alt="search"> SEARCH </div>
+            <img id="logo" class="flex" src="img/uTLogo.png" alt="Union Tribune Logo">
+            <div id="sale" class=" sansS flex"><span>SALE</span><span id="deal">$1 for 3 Months</span></div>
+            <div id="logIn" class="sansS flex">LOG IN</div>
+        </div>
+        <div class="flex" id="menuBar">
+            <div class="flex " id="date">TUESDAY NOV. 6, 2018</div>
+            <div class="flex " id="menu"><pre id="menuItems">CAREGIVERS   CARS    HOMES    JOBS    SD    ALMANAC    CONTACT US    TODAY'S PAPER    REWARDS</pre></div>
+            <div class="flex" id="weather"><img id="weatherImg" src="img/weather.png" alt="Today's Weather"></div>
+
+        </div>
+        <div class="flex" id="socialBar">
+            <div class="flex sansS" id="social"><img id="socialIcons" src="img/social_icons.png" alt="Icons"></div>
+            <div class="flex sansS" id="location"><span id="science">Science  / </span> <span id="environment"> Environment</span></div>
+        </div>
+        <div id="main">
+            <div id="title"><h1>Hurricanes and Global Warming in North Carolina</h1></div>
+            <img id="photo" src="img/hurricaneImg.jpg" alt="A Wave hits a Fishing Pier">
+            <div class="sansS" id="imgCaption">Waves from Hurricane Florence Hit the Oceana Pier in Atlantic Beach, North Carolina (Associated Press)</div>
+            <div class="flex" id="author">
+                <img id="authorPic" src="img/author.png" alt="The Author's Image">
+                <div id="authorText">By <span id="orange">Bridget Williams ·  Data Visualization</spanid></div>
+            </div>
+            <div class="sansS" id="date2">
+               NOVEMBER 6, 2018, 8:10 PM
+            </div>
+            <div id="tempChart"></div>
+            <div id="stormsChart"></div>
+            <div id="stormsTrend"></div>
+            <div id="chart"></div>
+            <table id="allStormsChart">
+                <thead>
+                <tr>
+                    <th>Storm Name</th>
+                    <th>Year</th>
+                    <th>Max Classification</th>
+                    <th>Max Wind Speed mph</th>
+                    <th>Min Pressure</th>
+                </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+
+
+
+        <!--//close grid site div-->
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="  crossorigin="anonymous"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-more.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@4.13.0/build/d3.min.js" charset="utf-8"></script>
+    <script src="https://cdn.jsdelivr.net/npm/taucharts@2/dist/taucharts.min.js" type="text/javascript"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>

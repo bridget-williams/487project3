@@ -1,0 +1,777 @@
+[
+  {
+    "Year": 1851,
+    "NumStorms": 2,
+    "AvgMaxWind": 80
+  },
+  {
+    "Year": 1852,
+    "NumStorms": 3,
+    "AvgMaxWind": 96.66666667
+  },
+  {
+    "Year": 1853,
+    "NumStorms": 2,
+    "AvgMaxWind": 110
+  },
+  {
+    "Year": 1854,
+    "NumStorms": 1,
+    "AvgMaxWind": 110
+  },
+  {
+    "Year": 1856,
+    "NumStorms": 2,
+    "AvgMaxWind": 75
+  },
+  {
+    "Year": 1857,
+    "NumStorms": 2,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1858,
+    "NumStorms": 2,
+    "AvgMaxWind": 85
+  },
+  {
+    "Year": 1859,
+    "NumStorms": 1,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1860,
+    "NumStorms": 2,
+    "AvgMaxWind": 100
+  },
+  {
+    "Year": 1861,
+    "NumStorms": 4,
+    "AvgMaxWind": 65
+  },
+  {
+    "Year": 1862,
+    "NumStorms": 2,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1863,
+    "NumStorms": 2,
+    "AvgMaxWind": 75
+  },
+  {
+    "Year": 1865,
+    "NumStorms": 1,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 1866,
+    "NumStorms": 1,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 1867,
+    "NumStorms": 4,
+    "AvgMaxWind": 85
+  },
+  {
+    "Year": 1868,
+    "NumStorms": 1,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1869,
+    "NumStorms": 1,
+    "AvgMaxWind": 100
+  },
+  {
+    "Year": 1871,
+    "NumStorms": 4,
+    "AvgMaxWind": 85
+  },
+  {
+    "Year": 1872,
+    "NumStorms": 2,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1873,
+    "NumStorms": 3,
+    "AvgMaxWind": 73.33333333
+  },
+  {
+    "Year": 1874,
+    "NumStorms": 1,
+    "AvgMaxWind": 80
+  },
+  {
+    "Year": 1875,
+    "NumStorms": 1,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1876,
+    "NumStorms": 2,
+    "AvgMaxWind": 100
+  },
+  {
+    "Year": 1877,
+    "NumStorms": 3,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1878,
+    "NumStorms": 4,
+    "AvgMaxWind": 85
+  },
+  {
+    "Year": 1879,
+    "NumStorms": 3,
+    "AvgMaxWind": 80
+  },
+  {
+    "Year": 1880,
+    "NumStorms": 2,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1881,
+    "NumStorms": 1,
+    "AvgMaxWind": 90
+  },
+  {
+    "Year": 1882,
+    "NumStorms": 3,
+    "AvgMaxWind": 93.33333333
+  },
+  {
+    "Year": 1883,
+    "NumStorms": 2,
+    "AvgMaxWind": 90
+  },
+  {
+    "Year": 1884,
+    "NumStorms": 1,
+    "AvgMaxWind": 80
+  },
+  {
+    "Year": 1885,
+    "NumStorms": 5,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1886,
+    "NumStorms": 3,
+    "AvgMaxWind": 91.66666667
+  },
+  {
+    "Year": 1887,
+    "NumStorms": 5,
+    "AvgMaxWind": 89
+  },
+  {
+    "Year": 1888,
+    "NumStorms": 5,
+    "AvgMaxWind": 79
+  },
+  {
+    "Year": 1889,
+    "NumStorms": 4,
+    "AvgMaxWind": 75
+  },
+  {
+    "Year": 1891,
+    "NumStorms": 1,
+    "AvgMaxWind": 55
+  },
+  {
+    "Year": 1892,
+    "NumStorms": 2,
+    "AvgMaxWind": 47.5
+  },
+  {
+    "Year": 1893,
+    "NumStorms": 7,
+    "AvgMaxWind": 85.71428571
+  },
+  {
+    "Year": 1894,
+    "NumStorms": 3,
+    "AvgMaxWind": 105
+  },
+  {
+    "Year": 1896,
+    "NumStorms": 3,
+    "AvgMaxWind": 93.33333333
+  },
+  {
+    "Year": 1897,
+    "NumStorms": 4,
+    "AvgMaxWind": 61.25
+  },
+  {
+    "Year": 1898,
+    "NumStorms": 1,
+    "AvgMaxWind": 115
+  },
+  {
+    "Year": 1899,
+    "NumStorms": 5,
+    "AvgMaxWind": 89
+  },
+  {
+    "Year": 1900,
+    "NumStorms": 3,
+    "AvgMaxWind": 41.66666667
+  },
+  {
+    "Year": 1901,
+    "NumStorms": 6,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 1902,
+    "NumStorms": 2,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1903,
+    "NumStorms": 2,
+    "AvgMaxWind": 82.5
+  },
+  {
+    "Year": 1904,
+    "NumStorms": 2,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 1905,
+    "NumStorms": 1,
+    "AvgMaxWind": 45
+  },
+  {
+    "Year": 1906,
+    "NumStorms": 3,
+    "AvgMaxWind": 76.66666667
+  },
+  {
+    "Year": 1907,
+    "NumStorms": 4,
+    "AvgMaxWind": 48.75
+  },
+  {
+    "Year": 1908,
+    "NumStorms": 4,
+    "AvgMaxWind": 53.75
+  },
+  {
+    "Year": 1909,
+    "NumStorms": 1,
+    "AvgMaxWind": 45
+  },
+  {
+    "Year": 1910,
+    "NumStorms": 3,
+    "AvgMaxWind": 100
+  },
+  {
+    "Year": 1911,
+    "NumStorms": 2,
+    "AvgMaxWind": 67.5
+  },
+  {
+    "Year": 1912,
+    "NumStorms": 2,
+    "AvgMaxWind": 52.5
+  },
+  {
+    "Year": 1913,
+    "NumStorms": 2,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 1915,
+    "NumStorms": 3,
+    "AvgMaxWind": 91.66666667
+  },
+  {
+    "Year": 1916,
+    "NumStorms": 4,
+    "AvgMaxWind": 75
+  },
+  {
+    "Year": 1917,
+    "NumStorms": 1,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 1918,
+    "NumStorms": 1,
+    "AvgMaxWind": 65
+  },
+  {
+    "Year": 1920,
+    "NumStorms": 1,
+    "AvgMaxWind": 75
+  },
+  {
+    "Year": 1923,
+    "NumStorms": 1,
+    "AvgMaxWind": 50
+  },
+  {
+    "Year": 1924,
+    "NumStorms": 4,
+    "AvgMaxWind": 75
+  },
+  {
+    "Year": 1925,
+    "NumStorms": 3,
+    "AvgMaxWind": 65
+  },
+  {
+    "Year": 1927,
+    "NumStorms": 1,
+    "AvgMaxWind": 50
+  },
+  {
+    "Year": 1928,
+    "NumStorms": 3,
+    "AvgMaxWind": 103.3333333
+  },
+  {
+    "Year": 1929,
+    "NumStorms": 1,
+    "AvgMaxWind": 135
+  },
+  {
+    "Year": 1930,
+    "NumStorms": 1,
+    "AvgMaxWind": 135
+  },
+  {
+    "Year": 1932,
+    "NumStorms": 3,
+    "AvgMaxWind": 63.33333333
+  },
+  {
+    "Year": 1933,
+    "NumStorms": 3,
+    "AvgMaxWind": 120
+  },
+  {
+    "Year": 1934,
+    "NumStorms": 5,
+    "AvgMaxWind": 68
+  },
+  {
+    "Year": 1935,
+    "NumStorms": 2,
+    "AvgMaxWind": 125
+  },
+  {
+    "Year": 1936,
+    "NumStorms": 1,
+    "AvgMaxWind": 105
+  },
+  {
+    "Year": 1937,
+    "NumStorms": 3,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 1938,
+    "NumStorms": 1,
+    "AvgMaxWind": 140
+  },
+  {
+    "Year": 1939,
+    "NumStorms": 1,
+    "AvgMaxWind": 65
+  },
+  {
+    "Year": 1940,
+    "NumStorms": 2,
+    "AvgMaxWind": 90
+  },
+  {
+    "Year": 1941,
+    "NumStorms": 2,
+    "AvgMaxWind": 87.5
+  },
+  {
+    "Year": 1942,
+    "NumStorms": 1,
+    "AvgMaxWind": 45
+  },
+  {
+    "Year": 1943,
+    "NumStorms": 3,
+    "AvgMaxWind": 50
+  },
+  {
+    "Year": 1944,
+    "NumStorms": 3,
+    "AvgMaxWind": 106.6666667
+  },
+  {
+    "Year": 1945,
+    "NumStorms": 3,
+    "AvgMaxWind": 95
+  },
+  {
+    "Year": 1946,
+    "NumStorms": 2,
+    "AvgMaxWind": 77.5
+  },
+  {
+    "Year": 1947,
+    "NumStorms": 3,
+    "AvgMaxWind": 65
+  },
+  {
+    "Year": 1948,
+    "NumStorms": 3,
+    "AvgMaxWind": 68.33333333
+  },
+  {
+    "Year": 1949,
+    "NumStorms": 3,
+    "AvgMaxWind": 85
+  },
+  {
+    "Year": 1950,
+    "NumStorms": 2,
+    "AvgMaxWind": 90
+  },
+  {
+    "Year": 1951,
+    "NumStorms": 2,
+    "AvgMaxWind": 82.5
+  },
+  {
+    "Year": 1952,
+    "NumStorms": 3,
+    "AvgMaxWind": 63.33333333
+  },
+  {
+    "Year": 1953,
+    "NumStorms": 3,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 1954,
+    "NumStorms": 7,
+    "AvgMaxWind": 84.28571429
+  },
+  {
+    "Year": 1955,
+    "NumStorms": 3,
+    "AvgMaxWind": 110
+  },
+  {
+    "Year": 1956,
+    "NumStorms": 2,
+    "AvgMaxWind": 67.5
+  },
+  {
+    "Year": 1957,
+    "NumStorms": 2,
+    "AvgMaxWind": 87.5
+  },
+  {
+    "Year": 1958,
+    "NumStorms": 2,
+    "AvgMaxWind": 122.5
+  },
+  {
+    "Year": 1959,
+    "NumStorms": 5,
+    "AvgMaxWind": 67
+  },
+  {
+    "Year": 1960,
+    "NumStorms": 4,
+    "AvgMaxWind": 92.5
+  },
+  {
+    "Year": 1961,
+    "NumStorms": 2,
+    "AvgMaxWind": 80
+  },
+  {
+    "Year": 1962,
+    "NumStorms": 1,
+    "AvgMaxWind": 85
+  },
+  {
+    "Year": 1963,
+    "NumStorms": 1,
+    "AvgMaxWind": 95
+  },
+  {
+    "Year": 1964,
+    "NumStorms": 5,
+    "AvgMaxWind": 104
+  },
+  {
+    "Year": 1965,
+    "NumStorms": 1,
+    "AvgMaxWind": 45
+  },
+  {
+    "Year": 1966,
+    "NumStorms": 1,
+    "AvgMaxWind": 110
+  },
+  {
+    "Year": 1967,
+    "NumStorms": 2,
+    "AvgMaxWind": 75
+  },
+  {
+    "Year": 1968,
+    "NumStorms": 4,
+    "AvgMaxWind": 68.75
+  },
+  {
+    "Year": 1969,
+    "NumStorms": 3,
+    "AvgMaxWind": 106.6666667
+  },
+  {
+    "Year": 1970,
+    "NumStorms": 4,
+    "AvgMaxWind": 52.5
+  },
+  {
+    "Year": 1971,
+    "NumStorms": 6,
+    "AvgMaxWind": 74.16666667
+  },
+  {
+    "Year": 1972,
+    "NumStorms": 5,
+    "AvgMaxWind": 51
+  },
+  {
+    "Year": 1973,
+    "NumStorms": 1,
+    "AvgMaxWind": 25
+  },
+  {
+    "Year": 1974,
+    "NumStorms": 2,
+    "AvgMaxWind": 50
+  },
+  {
+    "Year": 1975,
+    "NumStorms": 3,
+    "AvgMaxWind": 71.66666667
+  },
+  {
+    "Year": 1976,
+    "NumStorms": 6,
+    "AvgMaxWind": 48.33333333
+  },
+  {
+    "Year": 1977,
+    "NumStorms": 2,
+    "AvgMaxWind": 65
+  },
+  {
+    "Year": 1978,
+    "NumStorms": 1,
+    "AvgMaxWind": 25
+  },
+  {
+    "Year": 1979,
+    "NumStorms": 4,
+    "AvgMaxWind": 90
+  },
+  {
+    "Year": 1980,
+    "NumStorms": 2,
+    "AvgMaxWind": 50
+  },
+  {
+    "Year": 1981,
+    "NumStorms": 4,
+    "AvgMaxWind": 57.5
+  },
+  {
+    "Year": 1982,
+    "NumStorms": 2,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 1983,
+    "NumStorms": 1,
+    "AvgMaxWind": 55
+  },
+  {
+    "Year": 1984,
+    "NumStorms": 2,
+    "AvgMaxWind": 82.5
+  },
+  {
+    "Year": 1985,
+    "NumStorms": 9,
+    "AvgMaxWind": 82.22222222
+  },
+  {
+    "Year": 1986,
+    "NumStorms": 3,
+    "AvgMaxWind": 61.66666667
+  },
+  {
+    "Year": 1987,
+    "NumStorms": 2,
+    "AvgMaxWind": 47.5
+  },
+  {
+    "Year": 1988,
+    "NumStorms": 2,
+    "AvgMaxWind": 40
+  },
+  {
+    "Year": 1989,
+    "NumStorms": 1,
+    "AvgMaxWind": 140
+  },
+  {
+    "Year": 1990,
+    "NumStorms": 2,
+    "AvgMaxWind": 62.5
+  },
+  {
+    "Year": 1991,
+    "NumStorms": 2,
+    "AvgMaxWind": 72.5
+  },
+  {
+    "Year": 1992,
+    "NumStorms": 2,
+    "AvgMaxWind": 102.5
+  },
+  {
+    "Year": 1993,
+    "NumStorms": 1,
+    "AvgMaxWind": 100
+  },
+  {
+    "Year": 1994,
+    "NumStorms": 4,
+    "AvgMaxWind": 52.5
+  },
+  {
+    "Year": 1995,
+    "NumStorms": 4,
+    "AvgMaxWind": 87.5
+  },
+  {
+    "Year": 1996,
+    "NumStorms": 4,
+    "AvgMaxWind": 77.5
+  },
+  {
+    "Year": 1997,
+    "NumStorms": 3,
+    "AvgMaxWind": 51.66666667
+  },
+  {
+    "Year": 1998,
+    "NumStorms": 2,
+    "AvgMaxWind": 92.5
+  },
+  {
+    "Year": 1999,
+    "NumStorms": 3,
+    "AvgMaxWind": 106.6666667
+  },
+  {
+    "Year": 2000,
+    "NumStorms": 2,
+    "AvgMaxWind": 65
+  },
+  {
+    "Year": 2001,
+    "NumStorms": 1,
+    "AvgMaxWind": 50
+  },
+  {
+    "Year": 2002,
+    "NumStorms": 6,
+    "AvgMaxWind": 69.16666667
+  },
+  {
+    "Year": 2003,
+    "NumStorms": 4,
+    "AvgMaxWind": 68.75
+  },
+  {
+    "Year": 2004,
+    "NumStorms": 7,
+    "AvgMaxWind": 104.2857143
+  },
+  {
+    "Year": 2005,
+    "NumStorms": 2,
+    "AvgMaxWind": 70
+  },
+  {
+    "Year": 2006,
+    "NumStorms": 4,
+    "AvgMaxWind": 60
+  },
+  {
+    "Year": 2007,
+    "NumStorms": 4,
+    "AvgMaxWind": 53.75
+  },
+  {
+    "Year": 2008,
+    "NumStorms": 3,
+    "AvgMaxWind": 63.33333333
+  },
+  {
+    "Year": 2009,
+    "NumStorms": 1,
+    "AvgMaxWind": 30
+  },
+  {
+    "Year": 2010,
+    "NumStorms": 1,
+    "AvgMaxWind": 125
+  },
+  {
+    "Year": 2011,
+    "NumStorms": 3,
+    "AvgMaxWind": 86.66666667
+  },
+  {
+    "Year": 2012,
+    "NumStorms": 3,
+    "AvgMaxWind": 56.66666667
+  },
+  {
+    "Year": 2013,
+    "NumStorms": 1,
+    "AvgMaxWind": 55
+  },
+  {
+    "Year": 2014,
+    "NumStorms": 1,
+    "AvgMaxWind": 85
+  },
+  {
+    "Year": 2015,
+    "NumStorms": 1,
+    "AvgMaxWind": 45
+  },
+  {
+    "Year": 2016,
+    "NumStorms": 1,
+    "AvgMaxWind": 45
+  }
+]

@@ -1,0 +1,221 @@
+
+
+#site{
+    display:grid;
+    grid-template-columns: 10% 60% 20% 10%;
+    grid-template-rows: 80px 55px 40px 2000px;
+    font-family: Georgia;
+}
+
+.flex{
+    position:relative;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.sansS{
+    font:11px Arial;
+    font-weight:700;
+}
+#topBar{
+    grid-column: 1/5;
+    grid-row: 1/2;
+    color: white;
+    background:black;
+}
+
+#hamburger, #search{
+    width: 25pt;
+    height: 25pt;
+}
+
+#logo{
+    max-height: 100%;
+    max-width: 50%;
+    width: 400px
+    }
+
+#sale, #logIn{
+    width: 80pt;
+    height: 33pt;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 13px;
+    border-radius: 5pt;
+}
+
+#sale{
+    background: #FCB400;
+    color:black;
+}
+
+#deal{
+    font-size: 9pt;
+}
+
+#logIn{
+    border: 1pt solid white;
+}
+
+#menuBar{
+    grid-column: 1/5;
+    grid-row: 2/3;
+    background: #E6E6E6;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 30pt;
+    border: 1pt solid #666666;
+    color:#666666;
+    font-family: Arial;
+    font-size:9pt;
+    font-weight: lighter;
+}
+#menuItems{
+    color:#666666;
+    font-family: Arial;
+    font-size:9pt;
+    font-weight: lighter;
+}
+#weatherImg{
+    height: 45px
+}
+
+#socialBar{
+    grid-column: 2/4;
+    grid-row: 3/4;
+    justify-content: space-between;
+}
+
+#socialIcons{
+    height:35px;
+}
+
+#location{
+    font-size: 9pt;
+}
+
+#science{
+    color:#4591B8
+}
+
+#environment{
+    color:#294F70
+}
+
+
+
+#main{
+    grid-column: 2/3;
+    grid-row: 4/5;
+}
+
+h1{
+    font-size: 54px;
+    line-height: 60px;
+    font-weight: 400;
+}
+#photo{
+    max-width: 100%;
+}
+
+#imgCaption {
+    color: #666666;
+    font-size: 10pt;
+    font-weight: lighter
+}
+
+
+#authorPic{
+    width:75px;
+    margin-right: 10pt
+}
+
+#author{
+    align-items: center;
+    justify-content: left;
+    margin: 20pt 0;
+}
+#authorText{
+    font-size: 11pt;
+}
+
+#orange{
+    color:#FF7261;
+    font-weight: bolder;
+}
+
+#date2{
+    color: #666666;
+}
+
+.highcharts-legend, .highcharts-tooltip{
+    font-family: Georgia;
+}
+
+
+#tempChart{
+
+    height:400px;
+}
+
+
+#stormsChart{
+
+    height: 200pt;
+    width:100%;
+
+}
+
+#stormsTrend{
+    width:100%;
+    height: 100pt;
+
+}
+
+#chart, .allStormsChart_wrapper, .dataTables_wrapper{
+
+    position: relative;
+
+}
+
+@media only screen and (max-width: 768px) {
+    #site {
+        display: grid;
+        grid-template-columns: 10% 60% 20% 10%;
+        grid-template-rows: 100px 55px 45px 2000px;
+    }
+
+    #search, #searchText, #deal, #logIn, #sections{
+        display: none;
+    }
+
+    #sale{
+        width:90px;
+    }
+
+    #topBar{
+        flex-direction: row;
+    }
+
+    #menuBar{
+        padding: 1pt;
+    }
+
+    #menuItems{
+        font-size: 8pt;
+    }
+
+    #date{
+        display:none;
+    }
+
+
+    #main{
+        grid-column: 1/5;
+    }
+
+}
