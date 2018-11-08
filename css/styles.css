@@ -5,6 +5,8 @@
     grid-template-columns: 10% 60% 20% 10%;
     grid-template-rows: 80px 55px 40px 2000px;
     font-family: Georgia;
+    margin: 0;
+    width:100%;
 }
 
 .flex{
@@ -13,6 +15,11 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-evenly;
+}
+
+body{
+    padding:0;
+    margin:0;
 }
 
 .sansS{
@@ -200,7 +207,89 @@ h1{
 }
 
 
+#supportDiv{
+    padding: 20px 0;
+    border-top: #eeeeee solid 1pt;
+    border-bottom: #eeeeee solid 1pt;
+}
+.support{
+    width: 100%;
+    align-self: center;
+    text-align: center;
+}
 
+a{
+    color: #4591B8;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+#bottomMenu{
+
+
+}
+
+#email{
+    font-weight: bolder;
+    background: #E6E7E9;
+    padding: 10px;
+    border-radius: 2px;
+    text-align: left;
+}
+
+#signUp{
+    background: #9c9c9c;
+    color:#666666;
+    border-radius: 2pt;
+    padding: 8pt;
+    font-family: Arial;
+    font-size: 10pt;
+}
+
+.emailForm{
+    width:300px;
+    height: 30px;
+
+}
+
+#pp{
+    color: #666666;
+    font-size: 9pt;
+    font-family: Arial;
+}
+
+#copyright{
+    color:#666666;
+    margin: 20pt;
+}
+
+#related{
+    font-weight: bolder;
+    margin:20pt;
+}
+
+#social2{
+    max-width: 30%;
+}
+
+#socialImg2{
+    width: 130px;
+}
+
+#comments{
+    border: #FF7261 solid 1pt;
+    border-radius: 20pt;
+    color: #FF7261;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    font-size: 11pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    margin-left: 270px;
+}
 @media only screen and (max-width: 768px) {
     #site {
         display: grid;
